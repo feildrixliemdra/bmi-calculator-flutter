@@ -1,4 +1,4 @@
-# bmi-calculator made with flutter
+# bmi-calculator made with flutter :dart:
 
 ## Demo
 
